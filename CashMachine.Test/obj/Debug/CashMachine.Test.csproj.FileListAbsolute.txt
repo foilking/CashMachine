@@ -1,0 +1,10 @@
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\bin\Debug\CashMachine.Test.dll
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\bin\Debug\CashMachine.Test.pdb
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\bin\Debug\CashMachine.exe
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\bin\Debug\CashMachine.pdb
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\obj\Debug\CashMachine.Test.csprojResolveAssemblyReference.cache
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\obj\Debug\CashMachine.Test.dll
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\obj\Debug\CashMachine.Test.pdb
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\bin\Debug\Colorful.Console.dll
+c:\users\kevin.kc-mobile\documents\visual studio 2015\Projects\CashMachine\CashMachine.Test\bin\Debug\Colorful.Console.xml
